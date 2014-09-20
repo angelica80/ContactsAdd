@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pink.contactsadd.ChangeColorActivity" >
+    <item android:id="@+id/action_setting2"
+        android:title="@string/action_settings2"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

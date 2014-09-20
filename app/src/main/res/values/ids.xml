@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_random" type="id">Random</item>
+    <item name="action_backgroundcolor" type="id">Background</item>
+    <item name="action_contact" type="id">Contact</item>
+    <item name="action_color" type="id">Color</item>
+    <item name="randomTv" type="id">textview</item>
+</resources>

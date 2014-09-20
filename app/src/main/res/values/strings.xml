@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactsAdd</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Add Contact Demo</string>
+    <string name="hnt_et_name">Display Name</string>
+    <string name="hnt_et_mobile_phone">Mobile Phone</string>
+    <string name="hnt_et_home_phone">Home Phone</string>
+    <string name="hnt_et_home_email">Home Email</string>
+    <string name="hnt_et_work_email">Work Email</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="str_btn_contacts">Contacts List</string>
+    <string name="action_settings">Contact</string>
+    <string name="action_settings1">Random</string>
+    <string name="action_settings2">Change Color</string>
+    <string name="title_activity_random">RandomActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_change_color">ColorActivity</string>
+
+    <string name="btnRed">Red</string>
+    <string name="btnYellow">Yellow</string>
+
+</resources>
